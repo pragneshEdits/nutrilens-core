@@ -1,0 +1,24 @@
+{
+  "clean_protein_bar": {
+    "brand_or_product": "PureFit Whey Bar",
+    "serving_size": "60g",
+    "calories": 220.0,
+    "protein_g": 20.0,
+    "carbs_g": 18.0,
+    "fiber_g": 10.0,
+    "fat_g": 6.0,
+    "marketing_claims": ["20g Protein", "High Fiber", "No Added Sugar"],
+    "ingredients": ["Whey Protein Isolate", "Almond Butter", "Chicory Root Fiber", "Stevia"]
+  },
+  "deceptive_maltodextrin_snack": {
+    "brand_or_product": "Keto Crunch Bar",
+    "serving_size": "50g",
+    "calories": 180.0,
+    "protein_g": 15.0,
+    "carbs_g": 22.0,
+    "fiber_g": 2.0,
+    "fat_g": 4.0,
+    "marketing_claims": ["Zero Sugar", "Keto Friendly", "High Protein"],
+    "ingredients": ["Whey Protein Concentrate", "Maltodextrin", "Palm Kernel Oil", "Dextrose", "Artificial Flavors"]
+  }
+}
