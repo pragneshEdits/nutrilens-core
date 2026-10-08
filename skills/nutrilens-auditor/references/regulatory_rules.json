@@ -1,0 +1,6 @@
+{
+  "high_protein_min_g": 10.0,
+  "zero_sugar_max_g": 0.5,
+  "low_fat_max_g": 3.0,
+  "max_allowed_caloric_variance_pct": 15.0
+}

@@ -1,0 +1,7 @@
+{
+  "maltodextrin": {"gi": 110, "risk": "Spikes insulin faster than table glucose"},
+  "dextrose": {"gi": 100, "risk": "Pure glucose equivalent"},
+  "high fructose corn syrup": {"gi": 87, "risk": "High hepatic metabolic burden"},
+  "corn syrup solids": {"gi": 85, "risk": "Rapidly absorbed hydrolyzed starch"},
+  "sucrose": {"gi": 65, "risk": "Standard table sugar baseline"}
+}
